@@ -3,7 +3,7 @@
 - I’m currently working on a NodeJs Project 💻
 - I’m currently learning JetPack Compose 📱
 - I’m looking to collaborate on Android Projects 🐱‍💻
-- How to reach me: marcuseduardo.ns@gmail.com 🐱‍💻
+- How to reach me: marcuseduardo.ns@gmail.com 📧
 
 <div style="display: inline_block"><br>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
