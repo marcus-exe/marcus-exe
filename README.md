@@ -1,6 +1,6 @@
 ## Hello! My name is Marcus 马克森
 
-- I’m currently learning about gRPC APIs
+- I’m currently learning C++ 
 - I’m looking to collaborate on Android Projects 🐱‍💻
 - How to reach me: marcuseduardo.ns@gmail.com 📧
 
