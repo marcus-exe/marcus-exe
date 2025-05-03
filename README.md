@@ -1,15 +1,40 @@
-## Hello! My name is Marcus 马克森
+👽 About me: 
+---
 
-- I’m currently working with C++ and Kotlin on Android Projects
-- I’m looking to collaborate on Scala Projects 🐱‍💻
-- How to reach me: marcuseduardo.ns@gmail.com 📧
+<img src="./img/undraw_dev-productivity_5wps.svg" min-width="340px" max-width="300px" width="300px" align="right">
 
-<div style="display: inline_block"><br>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />            
-</div>
+```Kotlin
+object Marcus {
+    val age: Int = 23
+    val from: String = "Manaus - AM, Brazil"
+    val languages: List<String> = listOf("English", "Portuguese", "German and Chinese")
+    val interests: List<String> = listOf("Mobile Development, Big Data, DevOps, Generative AI")
+    val curiosity: String = "I'm a strong obsidian defender :)"
+    
+    override fun toString(): String {
+        return """
+        Marcus:
+        age: $age
+        from: $from
+        languages: $languages
+        interests: $interests
+        curiosity: $curiosity
+		"""
+    }
+}
+```
+🚀 Tools and Technologies:
+ ---
+**Languages:** Java | Kotlin | Python | R | C++ | C# <br>
+**Tools:** Jenkins | n8n | Apache Spark | Gradle | Maven <br>
+**Infrastructure:** Linux | Shell Script | AWS | Docker | Terraform | Kubernetes <br>
+**Framework:** Node | Express | Android Jetpack | SpringBoot | .NET <br>
+**Storage:** MySQL | Postgres | OracleDB
+
+
+🎓 Courses 
+---
+Software Engineer Undergrad @FIAP <br>
+FullCycle Course <br>
+Alura (Java, JS, AWS and more) <br>
+Android Developers <br>
