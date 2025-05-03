@@ -1,9 +1,9 @@
-### 👽 About me: 
-<hr style="margin-top: -10px; margin-bottom: 10px;">
+👽 About me: 
+---
 
 ```Kotlin
 object Marcus {
-    val age: Int = 23
+    val age: Int = 22
     val from: String = "Manaus - AM, Brazil"
     val languages: List<String> = listOf("English", "Portuguese", "German", "Chinese")
     val interests: List<String> = listOf("Mobile Development", "Big Data", "DevOps", "Generative AI")
@@ -23,10 +23,10 @@ object Marcus {
 
 ```
 
-<img src="./img/Coding Hello World GIF.gif" alt="img-profile" min-width="340px" max-width="300px" width="300px" align="right" style="border-radius: 10px;"/>
+<img src="./img/Coding Hello World GIF.gif" alt="img-profile" width="300px" align="right" style="border-radius: 10px;"/>
 
-### 🚀 Tools and Technologies:
-<hr style="margin-top: -10px; margin-bottom: 10px; margin-left:10px;">
+🚀 Tools and Technologies:
+---
 **Languages:** Java | Kotlin | Python | R | C++ | C# <br>
 **Tools:** Jenkins | n8n | Apache Spark | Gradle | Maven <br>
 **Infrastructure:** Linux | Shell Script | AWS | Docker | Terraform | Kubernetes <br>
@@ -35,7 +35,7 @@ object Marcus {
    
 
 ### 🎓 Courses 
-<hr style="margin-top: -10px; margin-bottom: 10px; margin-left:10px;">
+---
 Software Engineering Undergrad @FIAP <br>
 FullCycle Course <br>
 Alura (Java, JS, AWS and more) <br>
