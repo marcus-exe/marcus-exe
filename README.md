@@ -34,7 +34,7 @@ object Marcus {
 **Storage:** MySQL | Postgres | OracleDB
    
 
-### 🎓 Courses 
+🎓 Courses 
 ---
 Software Engineering Undergrad @FIAP <br>
 FullCycle Course <br>
