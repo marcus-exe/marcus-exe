@@ -1,5 +1,5 @@
-👽 About me: 
----
+### 👽 About me: 
+<hr style="margin-top: -10px; margin-bottom: 10px;">
 
 ```Kotlin
 object Marcus {
@@ -23,10 +23,10 @@ object Marcus {
 
 ```
 
-<img src="./img/Coding Hello World GIF.gif" alt="img-profile" min-width="340px" max-width="300px" width="300px" align="right"/>
+<img src="./img/Coding Hello World GIF.gif" alt="img-profile" min-width="340px" max-width="300px" width="300px" align="right" style="border-radius: 10px;"/>
 
-🚀 Tools and Technologies:
----
+### 🚀 Tools and Technologies:
+<hr style="margin-top: -10px; margin-bottom: 10px; margin-left:10px;">
 **Languages:** Java | Kotlin | Python | R | C++ | C# <br>
 **Tools:** Jenkins | n8n | Apache Spark | Gradle | Maven <br>
 **Infrastructure:** Linux | Shell Script | AWS | Docker | Terraform | Kubernetes <br>
@@ -34,9 +34,9 @@ object Marcus {
 **Storage:** MySQL | Postgres | OracleDB
    
 
-🎓 Courses 
----
-Software Engineer Undergrad @FIAP <br>
+### 🎓 Courses 
+<hr style="margin-top: -10px; margin-bottom: 10px; margin-left:10px;">
+Software Engineering Undergrad @FIAP <br>
 FullCycle Course <br>
 Alura (Java, JS, AWS and more) <br>
 Android Developers <br>
