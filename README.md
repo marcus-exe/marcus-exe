@@ -1,8 +1,6 @@
 👽 About me: 
 ---
 
-<img src="./img/undraw_dev-productivity_5wps.svg" min-width="340px" max-width="300px" width="300px" align="right">
-
 ```Kotlin
 object Marcus {
     val age: Int = 23
