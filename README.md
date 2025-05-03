@@ -23,28 +23,23 @@ object Marcus {
 
 ```
 
+<img src="./img/Coding Hello World GIF.gif" alt="img-profile" min-width="340px" max-width="300px" width="300px" align="right"/>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding: 10px;">
+🚀 Tools and Technologies:
+---
+**Languages:** Java | Kotlin | Python | R | C++ | C# <br>
+**Tools:** Jenkins | n8n | Apache Spark | Gradle | Maven <br>
+**Infrastructure:** Linux | Shell Script | AWS | Docker | Terraform | Kubernetes <br>
+**Framework:** Node | Express | Android Jetpack | SpringBoot | .NET <br>
+**Storage:** MySQL | Postgres | OracleDB
+   
 
-  🚀 Tools and Technologies:
-  ---
-  **Languages:** Java | Kotlin | Python | R | C++ | C# <br>
-  **Tools:** Jenkins | n8n | Apache Spark | Gradle | Maven <br>
-  **Infrastructure:** Linux | Shell Script | AWS | Docker | Terraform | Kubernetes <br>
-  **Framework:** Node | Express | Android Jetpack | SpringBoot | .NET <br>
-  **Storage:** MySQL | Postgres | OracleDB
+🎓 Courses 
+---
+Software Engineer Undergrad @FIAP <br>
+FullCycle Course <br>
+Alura (Java, JS, AWS and more) <br>
+Android Developers <br>
 
 
-  🎓 Courses 
-  ---
-  Software Engineer Undergrad @FIAP <br>
-  FullCycle Course <br>
-  Alura (Java, JS, AWS and more) <br>
-  Android Developers <br>
-  </div>
-
-  <div style="flex: 1; padding: 10px; ">
-   <img align="center" src="./img/Coding Hello World GIF.gif" alt="img-profile" align="right"/>
-  </div>
-</div>
+ 
